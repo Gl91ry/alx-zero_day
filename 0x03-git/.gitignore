@@ -1,1 +1,0 @@
-Global rules are particularly useful for ignoring particular files that you never want to commit, such as files with sensitive information or compiled executables.
